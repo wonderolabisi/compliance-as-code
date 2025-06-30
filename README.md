@@ -21,7 +21,7 @@ To get started with this demonstration, follow the instructions below:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/davraops/compliance-as-code-demo.git
+    git clone https://github.com/wonderolabisi/compliance-as-code.git
     cd compliance-as-code-demo
     ```
 
